@@ -1,0 +1,44 @@
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    font-family: Tahoma;
+    color:cornflowerblue;
+    text-align: center;
+    font-style: italic;
+}
+
+h4{
+    font-family:  Tahoma, sans-serif;
+    color:cornflowerblue;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+}
+
+p{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#menu{
+    width : 100%;
+    height : 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: white;
+    font-family: Tahoma;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
